@@ -10,7 +10,7 @@
   [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
   [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
-  [**🖥️ View Live Demo**](#) • [**🐛 Report Bug**](#) • [**✨ Request Feature**](#) • [**👨‍💻 Developer LinkedIn**](#)
+  [**🖥️ View Live Demo**](https://smartclass-sy.streamlit.app/) • [**🐛 Report Bug**](#) • [**✨ Request Feature**](#) • [**👨‍💻 Developer LinkedIn**](#)
 </div>
 
 ---
